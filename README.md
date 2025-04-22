@@ -99,7 +99,7 @@ food_input = {
 
 ## 🧑‍💻 Author
 
-Built by a Software Engineer who enjoys creating useful tools that help people.
+[Jarrar Shahid](https://github.com/JarrarShahid)
 
 ---
 
